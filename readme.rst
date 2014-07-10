@@ -1,2 +1,2 @@
-This is the code for Terminal Labs's Vagrant boxes.
+This is the code for Terminal Labs' Vagrant boxes.
 =======================================================
